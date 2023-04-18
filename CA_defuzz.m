@@ -1,10 +1,9 @@
 %_____________________________________________________________________%
-
-    %                 Authour       :      Ali Rezaei                %
-    %                 Email         :    rz.97.eng@gmail.com         %
-    
+    % ------------  Creator    :      Ali Rezaei         ----------- %
+    % ------------  K. N. Toosi University of Technology ----------- % 
+    % ------------      Advanced Control Systems Lab     ----------- %
+    % ------------   Email: a.rezaei2@email.kntu.ac.ir   ----------- %
     %                   Center Average Defuzzifier                   %
-    
 %_____________________________________________________________________%
 
 %  Custom defuzzification functions must be of the form
