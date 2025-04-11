@@ -1,8 +1,7 @@
 %_____________________________________________________________________%
-    % ------------  Creator    :      Ali Rezaei         ----------- %
+    % ------------  Creator    :      Sohrab Rezaei         ----------- %
     % ------------  K. N. Toosi University of Technology ----------- % 
     % ------------      Advanced Control Systems Lab     ----------- %
-    % ------------   Email: a.rezaei2@email.kntu.ac.ir   ----------- %
     %                   Center Average Defuzzifier                   %
 %_____________________________________________________________________%
 
