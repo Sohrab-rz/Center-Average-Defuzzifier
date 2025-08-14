@@ -1,7 +1,6 @@
 %_____________________________________________________________________%
 
-    %                 Authour       :      Ali Rezaei                %
-    %                 Email         :    rz.97.eng@gmail.com         %
+    %                 Authour       :      Sohrab Rezaei                %
     
 %                 Sample code for Center Average Defuzzifier         %
 %                  A Course in Fuzzy Systems and Control
